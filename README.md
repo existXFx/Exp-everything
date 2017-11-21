@@ -4,4 +4,4 @@
 
 文件目录及格式：
 
-/Exp-everython/大类(如中间件、cms)/小类(如cve*****、XXcms)/exp.py and readme.md
+/Exp-everython/大类(如中间件、cms)/小类(如cve*****、XXcms)/文件名/exp.py and readme.md
